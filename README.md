@@ -34,6 +34,7 @@ I'm a passionate **Full Stack Developer** currently building scalable solutions 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujnim&layout=compact&theme=tokyonight&hide=html,css&card_width=400" alt="Top Languages" />
 </p>
+
 ---
 
 ### 📫 Reach Me Out
