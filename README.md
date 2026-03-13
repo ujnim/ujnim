@@ -25,7 +25,7 @@ I'm a passionate **Full Stack Developer** currently building scalable solutions 
 
 ### 📊 GitHub Stats & Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujnim&show_icons=true&theme=tokyonight&count_private=true" alt="MinJu's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ujnim&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="MinJu's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujnim&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
