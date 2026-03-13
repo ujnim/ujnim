@@ -23,12 +23,17 @@ I'm a passionate **Full Stack Developer** currently building scalable solutions 
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 My GitHub Performance
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujnim&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="MinJu's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujnim&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ujnim&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true" alt="MinJu's Stats" height="190px" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujnim&theme=tokyonight" alt="GitHub Streak" height="190px" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujnim&layout=compact&theme=tokyonight&hide=html,css&card_width=400" alt="Top Languages" />
+</p>
 ---
 
 ### 📫 Reach Me Out
