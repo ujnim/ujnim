@@ -43,3 +43,6 @@ I'm a passionate **Full Stack Developer** currently building scalable solutions 
 * **Identity:** Human to Luna & Luca 🐾
 
 *"Code is like a cat: if you don't treat it right, it won't work. If you do, it still might ignore you."*
+
+### 🐍 My Contributions Snake
+![github contribution grid snake animation](https://raw.githubusercontent.com/ujnim/ujnim/output/github-contribution-grid-snake-dark.svg)
